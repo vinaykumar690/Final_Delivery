@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/ECU/Scenes/ECU-Assembly.unity
     guid: 25cdd9aff51f439498a758fa2a6b5236
+  - enabled: 1
+    path: Assets/XRlabAssets/FINAL SCENE/waluj ( final assembly)/ECU Assemblyy.unity
+    guid: 85df2a59702a25149be968ca43a7581a
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 4de88f62a93404787b94025e8528d907, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a0fd38f4ba6e04a6d85b7612320b08e4, type: 2}
